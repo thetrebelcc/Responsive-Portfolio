@@ -200,3 +200,11 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/*media*/
+
+@media screen and (max-width: 980px) {
+  
+}
+
+
